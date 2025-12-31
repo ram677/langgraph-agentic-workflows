@@ -17,7 +17,7 @@ langgraph-agentic-workflows/
 ├── 06_rag/
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+└── .env
 ```
 
 ---
