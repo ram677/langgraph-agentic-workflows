@@ -1,0 +1,8 @@
+{
+    "dependencies":["."],
+    "graphs":{
+      "groqapi_agent":"./groqapi_agent.py:agent"
+    },
+    "env":"../.env"
+  
+  }
