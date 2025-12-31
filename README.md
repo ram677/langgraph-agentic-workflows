@@ -74,14 +74,14 @@ langgraph-agentic-workflows/
 
 **Windows**
 ```bash
-python -m venv venv
-venv\Scripts\activate
+python -m venv .venv
+.venv\Scripts\activate
 ```
 
 **macOS / Linux**
 ```bash
-python3 -m venv venv
-source venv/bin/activate
+python3 -m venv .venv
+source .venv/bin/activate
 ```
 
 ---
@@ -163,12 +163,6 @@ Or open notebooks directly in VS Code.
 ## Learning & Career Objective
 
 This repository is designed to build strong foundations in agentic AI systems, graph-based reasoning, and production-grade GenAI workflows, while preparing for GenAI and LLM Engineer roles.
-
----
-
-## Resume-Ready Description
-
-Designed and implemented modular agentic AI systems using LangGraph, covering routing, parallelization, human-in-the-loop workflows, and advanced RAG patterns with secure environment configuration.
 
 ---
 
